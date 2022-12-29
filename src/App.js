@@ -1,22 +1,23 @@
-import logo from './logo.svg';
+import AIMindLogo from './images/mindAi.png';
 import './App.css';
+import backgroundImage from './images/volumetricShapes.png';
 
 function App() {
   return (
-    <div className="App">
+    <div className="App" style={{ backgroundImage:`url(${backgroundImage})` }}>
       <header className="App-header">
-        <h2>#joodjeimpft</h2>
-        <img src={logo} className="App-logo" alt="logo" />
+        <h2>#AITakeover</h2>
+        <img src={AIMindLogo} className="App-logo" alt="logo" />
         <p>
-          Let's <code>vaccinate</code> Köln!
+          <code>Everything is generated</code>!
         </p>
         <a
           className="App-link"
-          href="https://termin.corona-impfung.nrw/home"
+          href="https://www.midjourney.com/"
           target="_blank"
           rel="noopener noreferrer"
         >
-          register
+          Reimagine the world
         </a>
       </header>
     </div>
