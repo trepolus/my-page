@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/my-page/static/css/main.dadc718b.chunk.css",
-    "main.js": "/my-page/static/js/main.c60b374d.chunk.js",
-    "main.js.map": "/my-page/static/js/main.c60b374d.chunk.js.map",
-    "runtime-main.js": "/my-page/static/js/runtime-main.e0d7c9a6.js",
-    "runtime-main.js.map": "/my-page/static/js/runtime-main.e0d7c9a6.js.map",
-    "static/js/2.b9e01c89.chunk.js": "/my-page/static/js/2.b9e01c89.chunk.js",
-    "static/js/2.b9e01c89.chunk.js.map": "/my-page/static/js/2.b9e01c89.chunk.js.map",
-    "static/js/3.5c2816aa.chunk.js": "/my-page/static/js/3.5c2816aa.chunk.js",
-    "static/js/3.5c2816aa.chunk.js.map": "/my-page/static/js/3.5c2816aa.chunk.js.map",
-    "index.html": "/my-page/index.html",
-    "static/css/main.dadc718b.chunk.css.map": "/my-page/static/css/main.dadc718b.chunk.css.map",
-    "static/js/2.b9e01c89.chunk.js.LICENSE.txt": "/my-page/static/js/2.b9e01c89.chunk.js.LICENSE.txt",
-    "static/media/mindAi.284507f6.png": "/my-page/static/media/mindAi.284507f6.png",
-    "static/media/volumetricShapes.800f6efb.png": "/my-page/static/media/volumetricShapes.800f6efb.png"
+    "main.css": "/static/css/main.dadc718b.chunk.css",
+    "main.js": "/static/js/main.c60b374d.chunk.js",
+    "main.js.map": "/static/js/main.c60b374d.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.3499a6fd.js",
+    "runtime-main.js.map": "/static/js/runtime-main.3499a6fd.js.map",
+    "static/js/2.b9e01c89.chunk.js": "/static/js/2.b9e01c89.chunk.js",
+    "static/js/2.b9e01c89.chunk.js.map": "/static/js/2.b9e01c89.chunk.js.map",
+    "static/js/3.5c2816aa.chunk.js": "/static/js/3.5c2816aa.chunk.js",
+    "static/js/3.5c2816aa.chunk.js.map": "/static/js/3.5c2816aa.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.dadc718b.chunk.css.map": "/static/css/main.dadc718b.chunk.css.map",
+    "static/js/2.b9e01c89.chunk.js.LICENSE.txt": "/static/js/2.b9e01c89.chunk.js.LICENSE.txt",
+    "static/media/mindAi.284507f6.png": "/static/media/mindAi.284507f6.png",
+    "static/media/volumetricShapes.800f6efb.png": "/static/media/volumetricShapes.800f6efb.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.e0d7c9a6.js",
+    "static/js/runtime-main.3499a6fd.js",
     "static/js/2.b9e01c89.chunk.js",
     "static/css/main.dadc718b.chunk.css",
     "static/js/main.c60b374d.chunk.js"
